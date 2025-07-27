@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathameshLande321
--. Crafting futuristic, user-first experiences using cutting-edge web technologies.
--. I blend UI/UX design, AI-powered interactivity, and 3D visuals to build modern web apps that feel alive.
+- Crafting futuristic, user-first experiences using cutting-edge web technologies.
+- I blend UI/UX design, AI-powered interactivity, and 3D visuals to build modern web apps that feel alive.
   🎨 Responsive & Modern UI using React, Next.js, and Tailwind CSS
 ✨ 3D Web Experiences with Three.js
 
