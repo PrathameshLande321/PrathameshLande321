@@ -4,7 +4,7 @@
   🎨 Responsive & Modern UI using React, Next.js, and Tailwind CSS
 ✨ 3D Web Experiences with Three.js
 
-   -Tech Stack:-
+   Tech Stack:-
 .React • Next.js  • Tailwind CSS • Framer Motion • Spline • Three.js • Vite • Firebase
 
 <!---
