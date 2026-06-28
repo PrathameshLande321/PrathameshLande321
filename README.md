@@ -206,3 +206,217 @@ My interests lie in software engineering, backend development, scalable web appl
 <img src="https://user-images.githubusercontent.com/74038190/212897597-fc4b7d1c-7a89-4fca-b1d9-4e4eab15c9f8.gif" width="100%"/>
 
 </p>
+
+<!-- ========================================================= -->
+<!--                 FEATURED PROJECTS                         -->
+<!-- ========================================================= -->
+
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="32"/> Featured Projects
+
+<p align="center">
+
+Building practical, scalable and user-centric web applications while continuously improving software engineering skills.
+
+</p>
+
+---
+
+<details open>
+
+<summary>
+
+## 🤖 AgencyAI — AI SaaS Dashboard
+
+</summary>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/UI-Responsive-blueviolet?style=for-the-badge"/>
+
+</p>
+
+### 📌 Overview
+
+AgencyAI is a responsive AI SaaS dashboard developed using **React.js**. The project focuses on delivering an intuitive user experience for AI-powered workflows through reusable components and a clean interface.
+
+It demonstrates modern frontend development practices including component-based architecture, responsive layouts, and scalable UI design.
+
+---
+
+| Category | Details |
+|-----------|---------|
+| 🚀 Project Type | AI SaaS Dashboard |
+| 💻 Stack | React.js • JavaScript • HTML5 • CSS3 |
+| 🏗 Architecture | Component-Based React Architecture |
+| 📱 Responsive | Fully Responsive |
+| 🎯 Focus | User Experience & Modern UI |
+| 🔒 Code | Clean & Modular |
+
+---
+
+## ✨ Features
+
+- Responsive Dashboard UI
+- Reusable React Components
+- Modern SaaS Interface
+- Optimized User Experience
+- Clean Navigation
+- Interactive Layout
+- Mobile Friendly Design
+
+---
+
+## 📚 What I Learned
+
+- Building scalable React components
+- Component reusability
+- Responsive layouts
+- Clean UI architecture
+- State-driven frontend development
+
+---
+
+## 🌐 Live Demo
+
+<p align="center">
+
+<a href="https://agencyai-saas.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-success?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</details>
+
+---
+
+<details open>
+
+<summary>
+
+## 💎 Velour Atelier — Luxury Salon Website
+
+</summary>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/UI-Premium-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge"/>
+
+</p>
+
+### 📌 Overview
+
+Velour Atelier is a luxury salon website prototype designed to provide an elegant online presence for beauty salons. The application emphasizes premium visual aesthetics, responsive design, and customer-focused user flows.
+
+The project showcases modern React development practices with an emphasis on clean layouts and engaging user experiences.
+
+---
+
+| Category | Details |
+|-----------|---------|
+| 🚀 Project Type | Business Landing Website |
+| 💻 Stack | React.js • JavaScript • HTML5 • CSS3 |
+| 🏗 Architecture | Component-Based React Architecture |
+| 📱 Responsive | Fully Responsive |
+| 🎯 Focus | UI / UX Design |
+| 🔒 Code | Modular Components |
+
+---
+
+## ✨ Features
+
+- Premium Landing Page
+- Elegant UI Design
+- Responsive Layout
+- Service Showcase
+- Booking-Oriented Flow
+- Modern Visual Design
+
+---
+
+## 📚 What I Learned
+
+- Responsive Web Design
+- UI/UX Principles
+- React Component Structure
+- Layout Optimization
+- Building Professional Landing Pages
+
+---
+
+## 🌐 Live Demo
+
+<p align="center">
+
+<a href="https://velour-atelier.vercel.app/">
+
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-success?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</details>
+
+---
+
+## 🚀 Currently Building
+
+<table>
+<tr>
+
+<td width="50%">
+
+### MERN Stack Development
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Authentication
+- Backend Development
+
+</td>
+
+<td width="50%">
+
+### Current Goals
+
+- Build Full Stack Applications
+- Improve Backend Skills
+- Solve 400+ LeetCode Problems
+- Learn System Design Fundamentals
+- Prepare for Software Engineering Internships
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshLande321&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
