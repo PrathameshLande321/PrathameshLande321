@@ -419,4 +419,141 @@ The project showcases modern React development practices with an emphasis on cle
 
 </p>
 
+```markdown
+<!-- ========================================================= -->
+<!--                  ACHIEVEMENTS                            -->
+<!-- ========================================================= -->
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/National%20Hackathon-Top%2010%20Team-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Smackathon-Top%205%20Position-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YCCE-CSE%202027-6C63FF?style=for-the-badge"/>
+
+</p>
+
+| 🏅 Recognition | 📌 Details |
+|---------------|------------|
+| 💻 LeetCode | Solved **400+ Data Structures & Algorithms** problems |
+| 🥇 National Hackathon | Top 10 Team among **200+ teams** (Hunar Intern) |
+| 🏆 Smackathon | Secured **Top 5 Position** at YCCE |
+| 🎓 Education | B.Tech Computer Science Engineering (CGPA: **7.8**) |
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/">
+
+<img src="https://img.shields.io/badge/AWS-Introduction%20to%20Generative%20AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</a>
+
+<a href="https://education.oracle.com/">
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</a>
+
+<a href="https://education.oracle.com/">
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</a>
+
+</p>
+
+| Provider | Certification |
+|----------|---------------|
+| ☁️ AWS | Introduction to Generative AI |
+| 🔴 Oracle | Oracle Cloud Infrastructure AI Foundations |
+| 🔴 Oracle | Oracle Cloud Infrastructure Foundations |
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/prathameshlande333/">
+
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/PrathameshLande321">
+
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+> More coding profiles (CodeChef, GeeksforGeeks, HackerRank) will be added as they become active.
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrathameshLande321&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathameshLande321&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshLande321&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=PrathameshLande321&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshLande321&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/PrathameshLande321/PrathameshLande321/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+> **Note:** The snake animation will work after adding a GitHub Actions workflow (`.github/workflows/snake.yml`) to your profile repository.
+
+```
+
+
 
